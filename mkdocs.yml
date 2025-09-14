@@ -1,0 +1,4 @@
+site_name: Papyrus Documentation
+site_url: https://help.papyrussoftware.co.za
+theme:
+  name: material
